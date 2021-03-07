@@ -42,51 +42,51 @@
 
 ---
 
-![imgs/gantt.jpg](imgs/gantt.jpg)
+![data/imgs/gantt.jpg](data/imgs/gantt.jpg)
 
-![gantt2](imgs/gantt2.png)
+![gantt2](data/imgs/gantt2.png)
 
 ## 5. ERD
 
 ---
 
-![imgs/erd.png](imgs/erd.png)![HelF Me](imgs/HelF_Me.png)
+![data/imgs/erd.png](data/imgs/erd.png)![HelF Me](data/imgs/HelF_Me.png)
 
 ## 6. 실행화면
 
-![views/View (1)](imgs/views/View_(1).jpg)
+![views/View (1)](data/imgs/views/View_(1).jpg)
 
-![views/View (2)](imgs/views/View_(2).jpg)
+![views/View (2)](data/imgs/views/View_(2).jpg)
 
-![views/View (3)](imgs/views/View_(3).jpg)
+![views/View (3)](data/imgs/views/View_(3).jpg)
 
-![views/View (4)](imgs/views/View_(4).jpg)
+![views/View (4)](data/imgs/views/View_(4).jpg)
 
-![views/View (5)](imgs/views/View_(5).jpg)
+![views/View (5)](data/imgs/views/View_(5).jpg)
 
-![views/View (6)](imgs/views/View_(6).jpg)
+![views/View (6)](data/imgs/views/View_(6).jpg)
 
-![views/View (7)](imgs/views/View_(7).jpg)
+![views/View (7)](data/imgs/views/View_(7).jpg)
 
-![views/View (8)](imgs/views/View_(8).jpg)
+![views/View (8)](data/imgs/views/View_(8).jpg)
 
-![views/View (9)](imgs/views/View_(9).jpg)
+![views/View (9)](data/imgs/views/View_(9).jpg)
 
-![views/View (10)](imgs/views/View_(10).jpg)
+![views/View (10)](data/imgs/views/View_(10).jpg)
 
-![views/View (11)](imgs/views/View_(11).jpg)
+![views/View (11)](data/imgs/views/View_(11).jpg)
 
-![views/View (12)](imgs/views/View_(12).jpg)
+![views/View (12)](data/imgs/views/View_(12).jpg)
 
-![views/View (13)](imgs/views/View_(13).jpg)
+![views/View (13)](data/imgs/views/View_(13).jpg)
 
-![views/View (14)](imgs/views/View_(14).jpg)
+![views/View (14)](data/imgs/views/View_(14).jpg)
 
-![views/View (15)](imgs/views/View_(15).jpg)
+![views/View (15)](data/imgs/views/View_(15).jpg)
 
-![views/View (16)](imgs/views/View_(16).jpg)
+![views/View (16)](data/imgs/views/View_(16).jpg)
 
-![views/View (17)](imgs/views/View_(17).jpg)
+![views/View (17)](data/imgs/views/View_(17).jpg)
 
 
 
